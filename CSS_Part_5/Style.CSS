@@ -1,0 +1,35 @@
+ul{
+    display: inline;
+    overflow: hidden;
+    list-style-type: none;
+}
+li{
+    float: left;
+    margin: 0 21px;
+    display: block;
+}
+   .navbar{
+    margin: 0 auto;
+    padding: 5px;
+    border-top: 4px solid black;
+    border-bottom: 2px solid black;
+   } 
+.container{
+    border-style: double;
+    text-align: center;
+    padding-top: 1cm;
+    padding-bottom: 1cm;   
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0 100px;
+    margin: 0 300px;
+}
+.a img{
+    width: 100px;
+    height: 100px;
+}
+.center{
+    margin: 0 auto;
+}
+.color{
+    color: red;
+}
